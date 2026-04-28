@@ -1,0 +1,2 @@
+MENU: scripts/FPV/FPV_settings.lua
+PLAYER: scripts/FPV/FPV_player.lua
